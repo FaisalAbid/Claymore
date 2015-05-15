@@ -1,8 +1,8 @@
-name: Claymore
+name: claymore
 version: 0.0.1
 description: Simple Mustache Render Framework
-author: Faisal Abid faisal.abid@gmail.com
-#homepage: https://www.example.com
+author: Faisal Abid <faisal.abid@gmail.com>
+homepage: https://github.com/FaisalAbid/Claymore/
 environment:
   sdk: '>=1.0.0 <2.0.0'
 dependencies:
